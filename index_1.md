@@ -1,5 +1,0 @@
-<!doctype html>
-<html>
-  <head><meta charset="utf-8"><title>My Site</title></head>
-  <body><h1>Hello GitHub Pages</h1></body>
-</html>
